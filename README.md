@@ -1,1 +1,1 @@
-https://github.com/burkse01/ICS-483-Final/blob/main/gaussian_segmentation.ipynb
+https://githubtocolab.com/burkse01/ICS-483-Final/blob/main/gaussian_segmentation.ipynb
